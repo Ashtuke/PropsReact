@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+p,h2,h4,h1{font-family:'comforter',cursive;
+color:black;
+font-size: xx-large;
+}
+
+img{
+  height: 200px;
+  width:220px;
+  padding-bottom: 50px;
+}
+
+.container{
+  padding-left: 0;
+  display: inline;
+  font-style: italic;
+  /* font-size: large; */
+  
+}
